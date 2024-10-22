@@ -1,4 +1,4 @@
 # MyDemo
 my first demo repository.
 <br>
-Author - Deveshsingh Thakur
+Author - Devesh Thakur
